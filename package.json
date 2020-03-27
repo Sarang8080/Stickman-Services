@@ -1,0 +1,33 @@
+{
+  "name": "stickman-services",
+  "version": "1.0.0",
+  "description": "Internship Assignment : SignIn and SignUp Page. The fields in the signup page are email, nick name, password, and upload image.. And user have to signin with all the three credentials i.e., email, nick name and password stored in the mongoDB database and after signin displays the uploaded image.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarang8080/Stickman-Services.git"
+  },
+  "author": "Sarang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarang8080/Stickman-Services/issues"
+  },
+  "homepage": "https://github.com/Sarang8080/Stickman-Services#readme",
+  "engines":{
+    "node" : "*"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "mongoose": "^5.9.6",
+    "nodemon": "^2.0.2",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^6.0.1"
+  }
+}

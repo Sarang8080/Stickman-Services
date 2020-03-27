@@ -1,0 +1,12 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1550852464-dfac1e62181d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    color:whitesmoke;
+    text-align: center;
+    border: 2px solid blanchedalmond;
+    width: 20%;
+    margin: 0 auto;
+}

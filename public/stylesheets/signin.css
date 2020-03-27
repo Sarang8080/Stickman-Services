@@ -1,0 +1,14 @@
+.signin{
+    line-height: 40px;
+    text-align: center;
+}
+body{
+    background-image: url("https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+    background-size: cover;
+}
+input{
+    width: 30%;
+}
+h1{
+    color: whitesmoke;
+}
